@@ -1,5 +1,5 @@
 {
-  "name": "wa-bot",
+  "name": "R1",
   "version": "1.0.0",
   "description": "WhatsApp Bot",
   "main": "index.js",
@@ -35,6 +35,6 @@
     "syntax-error": "^1.4.0",
     "util": "^0.12.4"
   },
-  "author": "NpcXKiZakiXD",
-  "homepage": "https://github.com/KiZakiXD/Wa-Bot"
+  "author": "BotGua",
+  "homepage": "https://github.com/BotGua/R1"
 }
