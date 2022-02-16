@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KiZakiXD/Wa-Bot.git"
+    "url": "git+https://github.com/BotGua/R1.git"
   },
   "bugs": {
-    "url": "https://github.com/KiZakiXD/Wa-Bot/issues"
+    "url": "https://github.com/BotGua/R1/issues"
   },
   "license": "MIT",
   "dependencies": {
