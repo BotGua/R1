@@ -2,7 +2,7 @@
 
 ### Clone this repository
 ```bash
-> git clone https://github.com/KiZakiXD/Wa-Bot
+> git clone https://github.com/BotGua/R1
 > cd Wa-Bot
 ```
 
@@ -14,9 +14,9 @@
 ```
 
 ### Configuration
-* Set configuration on [this](https://github.com/KiZakiXD/Wa-Bot/blob/main/config.js)) file
+* Set configuration on [this](https://github.com/BotGua/R1/blob/main/config.js)) file
 * Get apikey from [this](https://api.kizakixd.xyz) site
-* Join the discussion group [here](https://chat.whatsapp.com/LUzwuA0t9JDBZYMmhS0m91) link
+
 
 ### Run this command when installation is done
 ```bash
